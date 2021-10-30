@@ -3,6 +3,7 @@ import { SectionProps } from "../../utils/SectionProps";
 import ButtonGroup from "../elements/ButtonGroup";
 import Button from "../elements/Button";
 import Image from "../elements/Image";
+import myLogo from "../../assets/images/findsqlV4.png"
 
 const propTypes = {
   ...SectionProps.types,
@@ -47,7 +48,7 @@ const Hero = ({
               data-reveal-delay="200"
             >
               <Image
-                src={require("../../assets/images/findsqlV4.png")}
+                src={myLogo}
                 alt="Open"
                 width={250}
                 height={250}

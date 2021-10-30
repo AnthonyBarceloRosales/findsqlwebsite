@@ -2,6 +2,10 @@ import React from "react";
 import classNames from "classnames";
 import { SectionSplitProps } from "../../utils/SectionProps";
 import Image from "../elements/Image";
+import Login from "./../../assets/images/login.png"
+import img2 from "./../../assets/images/image2.png";
+import img3 from "./../../assets/images/tables.png";
+
 
 const propTypes = {
   ...SectionSplitProps.types,
@@ -71,7 +75,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/login.png")}
+                  src={Login}
                   alt="loading..."
                   width={528}
                   height={396}
@@ -99,7 +103,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/image2.png")}
+                  src={img2}
                   alt="Features split 02"
                   width={528}
                   height={396}
@@ -126,7 +130,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={require("./../../assets/images/tables.png")}
+                  src={img3}
                   alt="Features split 03"
                   width={528}
                   height={396}
