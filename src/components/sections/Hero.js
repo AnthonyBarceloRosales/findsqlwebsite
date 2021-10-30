@@ -59,7 +59,7 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                Find+SQL is a light weight application that was designed to
+                Find+SQL is a light weight application, designed to
                 provide a visual solution to navigating any PostgreSQL database
                 via interactive tables and an automated generation of query
                 strings.
