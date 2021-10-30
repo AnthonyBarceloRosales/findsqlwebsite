@@ -1,23 +1,33 @@
 {
   "files": {
-    "main.css": "/findsqlwebsite/static/css/main.a617e044.chunk.css",
-    "main.js": "/findsqlwebsite/static/js/main.5f01c8d5.chunk.js",
-    "main.js.map": "/findsqlwebsite/static/js/main.5f01c8d5.chunk.js.map",
-    "runtime-main.js": "/findsqlwebsite/static/js/runtime-main.d62837bf.js",
-    "runtime-main.js.map": "/findsqlwebsite/static/js/runtime-main.d62837bf.js.map",
-    "static/js/2.12c55b48.chunk.js": "/findsqlwebsite/static/js/2.12c55b48.chunk.js",
-    "static/js/2.12c55b48.chunk.js.map": "/findsqlwebsite/static/js/2.12c55b48.chunk.js.map",
-    "static/js/3.fc5c59d5.chunk.js": "/findsqlwebsite/static/js/3.fc5c59d5.chunk.js",
-    "static/js/3.fc5c59d5.chunk.js.map": "/findsqlwebsite/static/js/3.fc5c59d5.chunk.js.map",
+    "main.css": "/findsqlwebsite/static/css/main.cbffbe17.chunk.css",
+    "main.js": "/findsqlwebsite/static/js/main.b7d16c8b.chunk.js",
+    "main.js.map": "/findsqlwebsite/static/js/main.b7d16c8b.chunk.js.map",
+    "runtime-main.js": "/findsqlwebsite/static/js/runtime-main.d0b4d385.js",
+    "runtime-main.js.map": "/findsqlwebsite/static/js/runtime-main.d0b4d385.js.map",
+    "static/js/2.d4cdfe77.chunk.js": "/findsqlwebsite/static/js/2.d4cdfe77.chunk.js",
+    "static/js/2.d4cdfe77.chunk.js.map": "/findsqlwebsite/static/js/2.d4cdfe77.chunk.js.map",
+    "static/js/3.f03c745e.chunk.js": "/findsqlwebsite/static/js/3.f03c745e.chunk.js",
+    "static/js/3.f03c745e.chunk.js.map": "/findsqlwebsite/static/js/3.f03c745e.chunk.js.map",
     "index.html": "/findsqlwebsite/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/findsqlwebsite/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.12c55b48.chunk.js.LICENSE.txt": "/findsqlwebsite/static/js/2.12c55b48.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/findsqlwebsite/static/media/logo.6ce24c58.svg"
+    "static/css/main.cbffbe17.chunk.css.map": "/findsqlwebsite/static/css/main.cbffbe17.chunk.css.map",
+    "static/js/2.d4cdfe77.chunk.js.LICENSE.txt": "/findsqlwebsite/static/js/2.d4cdfe77.chunk.js.LICENSE.txt",
+    "static/media/anthony.9fb90b0f.jpg": "/findsqlwebsite/static/media/anthony.9fb90b0f.jpg",
+    "static/media/carney.9c45fb9d.jpg": "/findsqlwebsite/static/media/carney.9c45fb9d.jpg",
+    "static/media/style.scss": "/findsqlwebsite/static/media/illustration-section-02.f11c21a9.svg",
+    "static/media/darren.b55a123e.jpg": "/findsqlwebsite/static/media/darren.b55a123e.jpg",
+    "static/media/feature-tile-icon-02.46935659.svg": "/findsqlwebsite/static/media/feature-tile-icon-02.46935659.svg",
+    "static/media/feature-tile-icon-03.69e94e20.svg": "/findsqlwebsite/static/media/feature-tile-icon-03.69e94e20.svg",
+    "static/media/feature-tile-icon-05.af2bae11.svg": "/findsqlwebsite/static/media/feature-tile-icon-05.af2bae11.svg",
+    "static/media/image2.e8cec956.png": "/findsqlwebsite/static/media/image2.e8cec956.png",
+    "static/media/june.587c526b.jpg": "/findsqlwebsite/static/media/june.587c526b.jpg",
+    "static/media/login.e64d9e04.png": "/findsqlwebsite/static/media/login.e64d9e04.png",
+    "static/media/tables.c019a7f2.png": "/findsqlwebsite/static/media/tables.c019a7f2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d62837bf.js",
-    "static/js/2.12c55b48.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.5f01c8d5.chunk.js"
+    "static/js/runtime-main.d0b4d385.js",
+    "static/js/2.d4cdfe77.chunk.js",
+    "static/css/main.cbffbe17.chunk.css",
+    "static/js/main.b7d16c8b.chunk.js"
   ]
 }
