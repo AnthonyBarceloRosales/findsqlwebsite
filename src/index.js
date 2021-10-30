@@ -1,18 +1,15 @@
 import reportWebVitals from './reportWebVitals';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { Router } from "react-router-dom";
-import { createBrowserHistory } from "history";
+import { BrowserRouter as Router } from "react-router-dom";
 import App from './App';
+import './assets/scss/style.scss';
 
 //import './App.css';
-import './assets/scss/style.scss';
-import './index.css';
-
-const history = createBrowserHistory();
+// import './index.css';
 
 ReactDOM.render(
-  <Router history={history}>
+  <Router basename={process.env.PUBLIC_URL}>
     <App />
   </Router>,
   document.getElementById('root')
