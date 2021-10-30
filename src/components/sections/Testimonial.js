@@ -3,6 +3,14 @@ import classNames from "classnames";
 import { SectionTilesProps } from "../../utils/SectionProps";
 import SectionHeader from "./partials/SectionHeader";
 import Image from "../elements/Image";
+import anfiny from "./../../assets/images/anthony.jpg"
+import dayron from "./../../assets/images/darren.jpg"
+import june from "./../../assets/images/june.jpg"
+import carniboring from "./../../assets/images/carney.jpg"
+
+
+import FormHint from '../elements/FormHint';
+
 
 const propTypes = {
   ...SectionTilesProps.types,
@@ -60,7 +68,7 @@ const Testimonial = ({
                     Antonio Barcelo-Rosales
                   </div>
                   <Image
-                    src={require("./../../assets/images/anthony.jpg")}
+                    src={anfiny}
                     alt="Open"
                     width={345}
                     height={345}
@@ -93,7 +101,7 @@ const Testimonial = ({
                     June Culp
                   </div>
                   <Image
-                    src={require("./../../assets/images/june.jpg")}
+                    src={june}
                     alt="Open"
                     width={350}
                     height={350}
@@ -120,7 +128,7 @@ const Testimonial = ({
                     Darren Chan
                   </div>
                   <Image
-                    src={require("./../../assets/images/darren.jpg")}
+                    src={dayron}
                     alt="Open"
                     width={350}
                     height={350}
@@ -148,7 +156,7 @@ const Testimonial = ({
                     Estrada Bernard
                   </div>
                   <Image
-                    src={require("./../../assets/images/carney.jpg")}
+                    src={carniboring}
                     alt="Open"
                     width={350}
                     height={350}
