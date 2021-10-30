@@ -164,7 +164,8 @@ const Testimonial = ({
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">
-                    <a href=""> Linkedin </a>
+                    <a href="https://www.linkedin.com/in/carney-bernard-7233bb106/
+"> Linkedin </a>
                   </span>
                   <span className="text-color-low"> / </span>
                   <span className="text-color-low">
