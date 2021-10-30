@@ -8,10 +8,6 @@ import dayron from "./../../assets/images/darren.jpg"
 import june from "./../../assets/images/june.jpg"
 import carniboring from "./../../assets/images/carney.jpg"
 
-
-import FormHint from '../elements/FormHint';
-
-
 const propTypes = {
   ...SectionTilesProps.types,
 };
