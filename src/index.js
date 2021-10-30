@@ -12,7 +12,7 @@ import './index.css';
 const history = createBrowserHistory();
 
 ReactDOM.render(
-  <Router history={history}>
+  <Router history={history} basename={'findsqlwebsite'}>
     <App />
   </Router>,
   document.getElementById('root')
