@@ -2,9 +2,12 @@ import React from "react";
 import classNames from "classnames";
 import { SectionSplitProps } from "../../utils/SectionProps";
 import Image from "../elements/Image";
-import Login from "./../../assets/images/login.png"
-import img2 from "./../../assets/images/image2.png";
-import img3 from "./../../assets/images/tables.png";
+// import img1 from "./../../assets/images/sql1.gif"
+// import img2 from "./../../assets/images/sql2.gif";
+// import img3 from "./../../assets/images/sql3.gif";
+import gif1 from "./../../assets/images/sql1.gif"
+import gif2 from "./../../assets/images/sql2.gif"
+import gif3 from "./../../assets/images/sq3.gif"
 
 
 const propTypes = {
@@ -75,7 +78,7 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={Login}
+                  src={gif1}
                   alt="loading..."
                   width={528}
                   height={396}
@@ -103,8 +106,8 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={img2}
-                  alt="Features split 02"
+                  src={gif2}
+                  alt="loading..."
                   width={528}
                   height={396}
                 />
@@ -130,8 +133,8 @@ const FeaturesSplit = ({
                 data-reveal-container=".split-item"
               >
                 <Image
-                  src={img3}
-                  alt="Features split 03"
+                  src={gif3}
+                  alt="loading..."
                   width={528}
                   height={396}
                 />
